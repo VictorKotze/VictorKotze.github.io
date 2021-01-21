@@ -1,0 +1,80 @@
+body{
+	background-color: #d5e8f6;
+	font-family:Verdana,sans-serif;
+}
+
+#output{
+	width: 600px;
+	height: 200px;
+	border: thin solid #CC0000;
+	padding: 10px;
+	
+}
+
+
+.button{
+	color:white;
+	background-color:green;
+	border:none;
+	outline: none;
+	padding:15px 32px;
+	border-radius: 10px;
+	font-size:1.5em;
+	transition-duration:0.4s;
+	margin-bottom:20px;
+	font-family:Verdana,sans-serif;
+}
+
+.button2{
+	color:white;
+	background-color:green;
+	border:none;
+	outline: none;
+	padding:15px 32px;
+	border-radius: 10px;
+	font-size:1.5em;
+	transition-duration:0.4s;
+	margin-bottom:20px;
+	font-family:Verdana,sans-serif;
+}
+
+.button3{
+	color:white;
+	background-color:green;
+	border:none;
+	outline: none;
+	padding:15px 32px;
+	border-radius: 10px;
+	font-size:1.5em;
+	transition-duration:0.4s;
+	margin-bottom:20px;
+	font-family:Verdana,sans-serif;
+}
+
+.button4{
+	color:white;
+	background-color:green;
+	border:none;
+	outline: none;
+	padding:15px 32px;
+	border-radius: 10px;
+	font-size:1.5em;
+	transition-duration:0.4s;
+	margin-bottom:20px;
+	font-family:Verdana,sans-serif;
+}
+
+.button5{
+	color:white;
+	background-color:green;
+	border:none;
+	outline: none;
+	padding:15px 32px;
+	border-radius: 10px;
+	font-size:1.5em;
+	transition-duration:0.4s;
+	margin-bottom:20px;
+	font-family:Verdana,sans-serif;
+}
+
+
